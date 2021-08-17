@@ -3,8 +3,8 @@ const popcat = document.querySelector("#popcat");
 const btn = document.querySelector("#btn");
 
 // The two images of the POP CAT
-const openMouthImg = "./images/alien1.jpg";
-const closeMouthImg = "./images/alien2.jpg";
+const openMouthImg = "./images/alien1.png";
+const closeMouthImg = "./images/alien2.png";
 
 // The two Popping sounds
 const openMouthSound = new Audio("./sound/sound-open.mp3");
